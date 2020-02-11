@@ -21,6 +21,8 @@ main{
     text-align: right;
     padding-right: 40px;
     padding-top: 50px;
+    position: relative;
+    top: -100px;
 }
 
 #contenu{
